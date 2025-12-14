@@ -1,0 +1,10 @@
+# Ép tất cả các file text dùng dòng mới chuẩn Linux (LF)
+* text=auto eol=lf
+
+# Các file binary (ảnh, exe...) thì giữ nguyên
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.jar binary
